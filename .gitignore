@@ -27,3 +27,5 @@ package-lock.json
 tsconfig.json
 types.d.ts
 webpack.config.js
+/*/target/*
+myapp.generated.js
