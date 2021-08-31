@@ -21,6 +21,7 @@
 		<vaadin.version>14.6.5</vaadin.version>
 		<maven.compiler.source>${java.version}</maven.compiler.source>
 		<maven.compiler.target>${java.version}</maven.compiler.target>
+        <xtext.version>2.25.0</xtext.version>
 	</properties>
 
 	<modules>

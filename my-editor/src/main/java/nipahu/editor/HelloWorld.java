@@ -8,6 +8,10 @@ import com.vaadin.flow.component.littemplate.LitTemplate;
 @Tag("hello-world")
 @NpmPackage(value = "@axa-ch/input-text", version = "4.3.11")
 @JsModule("./hello-world.ts")
+@JsModule("./sapl-mode.js")
+@JsModule("./xtext-codemirror.min.js")
+@NpmPackage(value = "jquery", version = "3.4.1")
+@NpmPackage(value = "codemirror", version = "5.52.2")
 public class HelloWorld extends LitTemplate {
 
     /**
