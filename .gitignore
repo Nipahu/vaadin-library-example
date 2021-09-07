@@ -28,3 +28,7 @@ webpack.config.js
 /*/target/*
 myapp.generated.js
 */node_modules/*
+.classpath
+.project
+*/.settings/*
+webpack.generated.js

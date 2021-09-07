@@ -10,7 +10,7 @@ class HelloWorld extends LitElement {
             <div>
                 <vaadin-text-field id="firstInput"></vaadin-text-field>
                 <axa-input-text id="secondInput"></axa-input-text>
-                <vaadin-button id="helloButton">Click me!</vaadin-button>
+                <vaadin-button id="helloButton">Click me! (Integrated)</vaadin-button>
             </div>`;
     }
 }
