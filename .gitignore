@@ -24,8 +24,7 @@ hs_err_pid*
 
 package.json
 package-lock.json
-tsconfig.json
-types.d.ts
 webpack.config.js
 /*/target/*
 myapp.generated.js
+*/node_modules/*
